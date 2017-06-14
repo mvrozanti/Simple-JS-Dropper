@@ -1,0 +1,21 @@
+{
+    "name": "POST-Imitator",
+    "description": "",
+    "version": "0.0.1",
+    "main": "./POST-Imitator.js",
+    "author": {
+        "name": "mvrozanti",
+        "email": "mvrozanti@hotmail.com"
+    },
+    "keywords": [],
+    "licenses": {
+        "type": "none"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/YOUR_LOGIN/POST-Imitator.git"
+    },
+    "bugs": {
+        "url": "http://github.com/YOUR_LOGIN/POST-Imitator/issues"
+    }
+}
